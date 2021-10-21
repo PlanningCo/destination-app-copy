@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     
-    let string = "word play"
+    let string = "word play21"
     @IBAction func unwindToRed(unwindSegue: UIStoryboardSegue) {
     
     }
