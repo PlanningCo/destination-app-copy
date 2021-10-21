@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let string = "Hello"
+        let string = "Hello world"
     }
 
     
