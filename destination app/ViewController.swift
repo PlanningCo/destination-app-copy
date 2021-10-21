@@ -12,11 +12,11 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let string = "Hello world"
+        
     }
 
     
-    
+    let number = 5
     @IBAction func unwindToRed(unwindSegue: UIStoryboardSegue) {
     
     }
