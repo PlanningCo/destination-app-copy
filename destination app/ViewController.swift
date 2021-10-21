@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     
-    let array = [2,3,4,5,6]
+    let myBool = true
     @IBAction func unwindToRed(unwindSegue: UIStoryboardSegue) {
     
     }
