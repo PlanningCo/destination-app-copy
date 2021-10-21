@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     
-    let array = [2,3,4]
+    let array = [2,3,4,5,6]
     @IBAction func unwindToRed(unwindSegue: UIStoryboardSegue) {
     
     }
