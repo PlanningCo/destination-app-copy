@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     
-    let number = 5
+    let string = "word"
     @IBAction func unwindToRed(unwindSegue: UIStoryboardSegue) {
     
     }
